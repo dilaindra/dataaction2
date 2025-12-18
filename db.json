@@ -2,6 +2,6 @@
   "resi": [
     { "id": "111111", "statusID": "ON_ROUTE", "statusAudioID": "Pesanan Anda sedang dalam perjalanan ke kota tujuan.", "statusAudioEN": "Your order is currently on its way to the destination city."},
     { "id": "123456", "statusID": "DELIVERED", "statusAudioID": "Pesanan Anda telah berhasil terkirim.", "statusAudioEN": "Your order has been successfully delivered."},
-    { "id": "121212", "statusID": "ON_ROUTE", "statusAudioID": "Pesanan Anda sedang dalam perjalanan ke kota tujuan.", "statusAudioEN": "Your order is currently on its way to the destination city."},
+    { "id": "121212", "statusID": "ON_ROUTE", "statusAudioID": "Pesanan Anda sedang dalam perjalanan ke kota tujuan.", "statusAudioEN": "Your order is currently on its way to the destination city."}
   ]
 }
