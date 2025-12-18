@@ -3,7 +3,7 @@
     { "id": "111111", "statusID": "ON_ROUTE", "statusAudioID": "Pesanan Anda sedang dalam perjalanan ke kota tujuan.", "statusAudioEN": "Your order is currently on its way to the destination city."},
     { "id": "123456", "statusID": "DELIVERED", "statusAudioID": "Pesanan Anda telah berhasil terkirim.", "statusAudioEN": "Your order has been successfully delivered."},
     { "id": "121212", "statusID": "ON_ROUTE", "statusAudioID": "Pesanan Anda sedang dalam perjalanan ke kota tujuan.", "statusAudioEN": "Your order is currently on its way to the destination city."},
-    { "id": "101010", "statusID": "ON_ROUTE", "statusAudioID": "Paket Anda saat ini sedang berada di Ciumbuleuit, dan akan segera dikirim ke rumah Anda oleh kurir kami.", "statusAudioEN": "Your order is currently on its way to the destination city."},
+    { "id": "101010", "statusID": "ON_ROUTE", "statusAudioID": "Paket Anda saat ini sedang berada di Ciumbuleuit, dan akan segera dikirim ke rumah Anda oleh kurir kami. Jadi mohon untuk bersabar sebentar karena kurir kami juga sibuk dan kecapean dengan seribu paket perhari. Bayangkan saja SERIBUUUUU PAKETTTTTTT. HAAAAHHHH YANG BENER AJA DAH STRES BET DAH SERIBU PAKET GINI. BELOMAN KALO HUJAN ADUH MAKIN SULIDD!", "statusAudioEN": "Your order is currently on its way to the destination city."},
     { "id": "234567", "statusID": "LOST", "statusAudioID": "Paket Anda dinyatakan hilang", "statusAudioEN": "Your order is currently on its way to the destination city."}
   
   ]
